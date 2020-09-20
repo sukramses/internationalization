@@ -1,0 +1,46 @@
+﻿l_english:
+
+ toska_prisoner_rape_interaction:0 "Rape Prisoner"
+ toska_prisoner_rape_interaction_desc:0 "[recipient.GetShortUINameNoTooltip] is your prisoner - if you lust for [recipient.GetHerHim], then you can take [recipient.GetHerHim] body and make [recipient.GetHerHim] yours for tonight."
+
+ dwtoska.1.t:0 "Rape of prisoner [recipient.GetShortUINameNoTooltip]"
+ dwtoska.1.desc_female:0 "Full of lust and carnal desires you oogle [recipient.GetShortUIName|U]'s body and wonder how it will feel to implant yourself onto his cock.\n\n[recipient.GetShortUIName|U] winces under your caress and you have to use a lot of force to subdue [recipient.GetHerHim], while you position yourself over his erect member.\n\nSlowly you lower your wet snatch onto his erect member and groan in delight as you bottom out on him. You then start to slowly ride [recipient.GetShortUIName|U]."
+ dwtoska.1.desc_male:0 "Full of lust and carnal desires you oogle [recipient.GetShortUIName|U]'s body and wonder how it will feel to roam your hands over her bosom and to penetrate her tight womb with your erect cock.\n\n[recipient.GetShortUIName|U] winces under your caress and you have to use a lot of force to subdue [recipient.GetHerHim], while you position your cock at the entrance of her glistering pussy.\n\nSlowly you penetrate her wet snatch and groan in delight once you have entered her all the way. With slow and powerful strokes you rape [recipient.GetShortUIName|U], building up to a powerful release."
+ dwtoska.1.a:0 "Please, no, Don't ...! #emp Aaaaaaaah!#!"
+
+ IMPRISONMENT_RELATIVES_EFFECT_RAPE:1 "All of [THIS.GetCharacter.GetShortUINamePossessive] [family|E] loses #N 40#! [opinion|E] of [imprisoner.GetShortUIName]"
+ RAPE_PRISONER:0 "[recipient.GetShortUIName|U] is stripped naked and raped, lowering [recipient.GetHerHis] [health|E] and angering [recipient.GetHerHis] [close_family|E]."
+
+ opinion_raped_me:0 "Raped me"
+ opinion_raped_family:0 "Raped my family member"
+ opinion_used_spouse:0 "Seduced my spouse"
+ opinion_used_family_member:0 "Seduced my family member"
+
+ recently_raped:0 "Has been raped recently"
+
+ dwtoska.2.title:0 "Prisoner [recipient.GetShortUINameNoTooltip] has been raped"
+ dwtoska.2.desc:0 "You bask in the satisfied afterglow of having raped [recipient.GetShortUIName|U]."
+ dwtoska.2.a.female:0 "His seed feels good in me!"
+ dwtoska.2.a.male:0 "I planted my seed deep into her womb!"
+ dwtoska.2.a.tt:0 "[recipient.GetShortUINameNoTooltip] will remember her painful violation for a long time!"
+ dwtoska.2.desc_female:0 "Eventually you both reach an earth-shattering climax and you can feel how he empties himself in powerful spurts deeply into your convulsing womb.\n\nThe deeply satisfying orgasm leaves you exhausted and smiling, while [recipient.GetShortUIName|U] is groaning in pain and agony.\n\nWith deliberate slowness you lift yourself off his still half erect cock. [recipient.GetShortUIName|U] rises slowly to his feet and covers his shrinking manhood with his hands while he watches with disbelieve at the cum that is leaking out of your womb. He still can't comprehend that you let him do that."
+ dwtoska.2.desc_male:0 "Eventually you both reach an earth-shattering climax and with powerful spurts you fill her convulsing womb with copious amounts of semen.\n\nThe deeply satisfying orgasm leaves you exhausted and smiling, while [recipient.GetShortUIName|U] is groaning in pain and agony.\n\nYou pull your still half erect cock from her snatch and [recipient.GetShortUIName|U] rises slowly to her feet, looking at you defiantly while your seed slowly seeps from her violated womb."
+
+ toska_courtier_rape_interaction:0 "Rape Courtier"
+ toska_courtier_rape_interaction_desc:0 "[recipient.GetShortUINameNoTooltip] is your courtier - if you lust for [recipient.GetHerHim], then you can take [recipient.GetHerHim] body and make [recipient.GetHerHim] yours for tonight."
+
+ dwtoska.3.t:0 "Rape of courtier [recipient.GetShortUINameNoTooltip]"
+ dwtoska.3.desc_female:0 "During the night you strolled the corridors of your castle and came across [recipient.GetShortUIName|U], who just had left [recipient.GetHerHis] quarters in [recipient.GetHerHis] nightgown.\n\nFull of lust and carnal desires you don't hesitate and rip the nightgown off [recipient.GetHerHis] body. Pleased with what you see you wonder how it will feel to implant yourself onto his cock.\n\n[recipient.GetShortUIName|U] winces under your caress and you have to use a lot of force to subdue [recipient.GetHerHim], while you position yourself over his erect member.\n\nSlowly you lower your wet snatch onto his erect member and groan in delight as you bottom out on him. You then start to slowly ride [recipient.GetShortUIName|U]."
+ dwtoska.3.desc_male:0 "During the night you strolled the corridors of your castle and came across [recipient.GetShortUIName|U], who just had left [recipient.GetHerHis] quarters in [recipient.GetHerHis] nightgown.\n\nFull of lust and carnal desires you don't hesitate and rip the nightgown off [recipient.GetHerHis] body. Pleased with what you see you wonder how it will feel to roam your hands over her bosom and to penetrate her tight womb with your erect cock.\n\n[recipient.GetShortUIName|U] winces under your caress and you have to use a lot of force to subdue [recipient.GetHerHim], while you position your cock at the entrance of her glistering pussy. Slowly you penetrate her wet snatch and groan in delight once you have entered her all the way. With slow and powerful strokes you rape [recipient.GetShortUIName|U], building up to a powerful release."
+ dwtoska.3.a:0 "Please, no, Don't ...! #emp Aaaaaaaah!#!"
+
+ COURTIER_RELATIVES_EFFECT_RAPE:1 "All of [THIS.GetCharacter.GetShortUINamePossessive] [family|E] loses #N 10#! [opinion|E] of [imprisoner.GetShortUIName]"
+ RAPE_COURTIER:0 "At night you snatch [recipient.GetShortUIName|U] and force yourself on [recipient.GetHerHim], lowering [recipient.GetHerHis] [health|E] and angering [recipient.GetHerHis] [close_family|E]."
+
+ dwtoska.4.title:0 "Courtier [recipient.GetShortUINameNoTooltip] has been raped"
+ dwtoska.4.desc:0 "You bask in the satisfied afterglow of having raped [recipient.GetShortUIName|U]."
+ dwtoska.4.a.female:0 "His seed feels good in me!"
+ dwtoska.4.a.male:0 "I planted my seed deep into her womb!"
+ dwtoska.4.a.tt:0 "[recipient.GetShortUINameNoTooltip] will remember this carnal act for a long time!"
+ dwtoska.4.desc_female:0 "Eventually you both reach an earth-shattering climax and you can feel how he empties himself in powerful spurts deeply into your convulsing womb.\n\nThe deeply satisfying orgasm leaves you exhausted and smiling, while [recipient.GetShortUIName|U] is groaning in pain and agony.\n\nWith deliberate slowness you lift yourself off his still half erect cock. [recipient.GetShortUIName|U] rises slowly to his feet and covers his shrinking manhood with his hands while he watches with disbelieve at the cum that is leaking out of your womb. He still can't comprehend that you let him do that."
+ dwtoska.4.desc_male:0 "Eventually you both reach an earth-shattering climax and with powerful spurts you fill her convulsing womb with copious amounts of semen.\n\nThe deeply satisfying orgasm leaves you exhausted and smiling, while [recipient.GetShortUIName|U] is groaning in pain and agony.\n\nYou pull your still half erect cock from her snatch and [recipient.GetShortUIName|U] rises slowly to her feet, looking at you defiantly while your seed slowly seeps from her violated womb."
