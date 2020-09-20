@@ -1,0 +1,3 @@
+﻿l_german:
+ setting_carn_slavery_default_religious_doctrine_full_historical: "#high Historisch#!"
+ setting_carn_slavery_default_religious_doctrine_full_historical_desc: "Alle Glauben besitzen eine Doktrin für $carn_doctrine_same_slavery_name$ und $carn_doctrine_other_slavery_name$, basierend auf historischen Aufzeichnungen."

@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  # Scheme Interaction
  sub_train_obedience_interaction: "Obedience Training #weak (Scheme)#!"
  sub_train_obedience_interaction_desc: "Train [recipient.GetShortUINameNoTooltip] in obedience*\n\n*preview time to complete innacurate"

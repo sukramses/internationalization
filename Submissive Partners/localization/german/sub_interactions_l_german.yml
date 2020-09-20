@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
  # Interactions
  sub_make_nude_interaction: "Revoke Clothing Privileges"
  sub_make_nude_interaction_desc: "[recipient.GetShortUINameNoTooltip] will remain naked, until you decide otherwise."
